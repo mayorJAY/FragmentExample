@@ -41,7 +41,4 @@
     <string name="rate_song">LIKE THE SONG?</string>
     <string name="my_rating">My rating:</string>
     <string name="beatles_anthology_image_description">beatles_anthology_image</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
 </resources>
