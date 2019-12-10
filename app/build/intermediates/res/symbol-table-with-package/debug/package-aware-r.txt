@@ -676,7 +676,6 @@ id expand_activities_button
 id expanded_menu
 id forever
 id fragment
-id fragment_header
 id home
 id homeAsUp
 id icon
@@ -709,6 +708,9 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
+id rate_article_tv
+id rate_song_tv
+id rating_bar
 id right_icon
 id right_side
 id screen
@@ -853,6 +855,7 @@ string no
 string no_message
 string open
 string question_article
+string rate_song
 string search_menu_title
 string status_bar_notification_info_overflow
 string title1

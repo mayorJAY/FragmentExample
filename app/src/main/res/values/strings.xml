@@ -38,5 +38,7 @@
 
     <!-- Text for the exception message in FragmentCommunicate. -->
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <string name="rate_song">LIKE THE SONG?</string>
+    <string name="my_rating">My rating:</string>
 
 </resources>

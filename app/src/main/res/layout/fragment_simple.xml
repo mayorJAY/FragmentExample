@@ -4,39 +4,66 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/my_fragment_color"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     tools:context=".SimpleFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/fragment_header"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
-        android:padding="4dp"
-        android:text="@string/question_article" />
-
-    <RadioGroup
-        android:id="@+id/radio_group"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
-
-        <RadioButton
-            android:id="@+id/radio_button_yes"
+        <TextView
+            android:id="@+id/rate_article_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="8dp"
-            android:text="@string/yes"
-            android:layout_marginEnd="8dp" />
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:padding="@dimen/small_padding"
+            android:text="@string/question_article" />
 
-        <RadioButton
-            android:id="@+id/radio_button_no"
+        <RadioGroup
+            android:id="@+id/radio_group"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="8dp"
-            android:text="@string/no"
-            android:layout_marginEnd="8dp" />
-    </RadioGroup>
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_yes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/standard_margin"
+                android:text="@string/yes"
+                android:layout_marginEnd="@dimen/standard_margin" />
+
+            <RadioButton
+                android:id="@+id/radio_button_no"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/standard_margin"
+                android:text="@string/no"
+                android:layout_marginEnd="@dimen/standard_margin" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/rate_song_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:padding="@dimen/small_padding"
+            android:text="@string/rate_song" />
+
+        <RatingBar
+            android:id="@+id/rating_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:isIndicator="false"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:padding="@dimen/padding_standard"/>
+
+    </LinearLayout>
 
 </LinearLayout>
