@@ -58,7 +58,7 @@ public class SimpleFragment extends Fragment {
         ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
             public void onRatingChanged(RatingBar ratingBar, float rating, boolean fromUser) {
-                String myRating = getString(R.string.my_rating) + rating;
+                String myRating = getString(R.string.my_rating) + " " + rating;
                 Toast.makeText(getContext(), myRating, Toast.LENGTH_SHORT).show();
             }
         });

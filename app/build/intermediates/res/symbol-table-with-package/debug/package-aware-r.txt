@@ -657,8 +657,9 @@ id basic
 id beginning
 id blocking
 id bottom
-id button
 id buttonPanel
+id button_next
+id button_open
 id cancel_action
 id chains
 id checkbox
@@ -793,6 +794,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_second
 layout fragment_simple
 layout notification_action
 layout notification_action_tombstone
@@ -850,12 +852,15 @@ string abc_toolbar_collapse_description
 string app_name
 string article1
 string article2
+string beatles_anthology_image_description
 string close
 string exception_message
 string my_rating
+string next
 string no
 string no_message
 string open
+string previous
 string question_article
 string rate_song
 string search_menu_title

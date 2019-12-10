@@ -32,7 +32,7 @@
     <string name="no_message">ARTICLE: Thanks</string>
     <string name="question_article">LIKE THE ARTICLE?</string>
 
-    <!-- Text for the button in FragmentExample2. -->
+    <!-- Text for the button_open in FragmentExample2. -->
     <string name="open">Open</string>
     <string name="close">Close</string>
 
@@ -40,5 +40,8 @@
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
     <string name="rate_song">LIKE THE SONG?</string>
     <string name="my_rating">My rating:</string>
+    <string name="beatles_anthology_image_description">beatles_anthology_image</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 
 </resources>
