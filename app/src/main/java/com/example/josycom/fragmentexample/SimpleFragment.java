@@ -1,4 +1,4 @@
-package com.example.android.fragmentexample;
+package com.example.josycom.fragmentexample;
 
 
 import android.content.Context;

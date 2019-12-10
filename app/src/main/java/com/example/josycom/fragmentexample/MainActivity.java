@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentexample;
+package com.example.josycom.fragmentexample;
 
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
