@@ -32,7 +32,7 @@ public class SimpleFragment extends Fragment {
         // Inflate the layout for this fragment
         final View rootView = inflater.inflate(R.layout.fragment_simple, container, false);
         final RadioGroup radioGroup = rootView.findViewById(R.id.radio_group);
-        RatingBar ratingBar = rootView.findViewById(R.id.rating_bar);
+        final RatingBar ratingBar = rootView.findViewById(R.id.rating_bar);
 
         // Set the radioGroup onCheckedChanged listener
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
@@ -64,6 +64,10 @@ public class SimpleFragment extends Fragment {
         });
         // Return the View for the fragment's UI
         return rootView;
+    }
+
+    public static SimpleFragment newInstance(){
+        return new SimpleFragment();
     }
 
 }
