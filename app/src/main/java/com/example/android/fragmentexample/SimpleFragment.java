@@ -1,4 +1,4 @@
-package com.example.josycom.fragmentexample;
+package com.example.android.fragmentexample;
 
 
 import android.content.Context;
@@ -11,6 +11,8 @@ import android.widget.RadioGroup;
 import android.widget.RatingBar;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.josycom.fragmentexample.R;
 
 
 /**
