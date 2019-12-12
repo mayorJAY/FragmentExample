@@ -24,11 +24,13 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.example.josycom.fragmentexample.R;
+
 public class MainActivity extends AppCompatActivity implements SimpleFragment.OnFragmentInteractionListener{
     private Button mButton;
     private boolean isFragmentDisplayed = false;
     private final String STATE_FRAGMENT = "state_of_fragment";
-    private int mRadioButtonChoice = 2;
+    private String mRadioButtonChoice = "None";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,7 +97,7 @@ public class MainActivity extends AppCompatActivity implements SimpleFragment.On
     }
 
     @Override
-    public void onRadioButtonChoice(int choice) {
+    public void onRadioButtonChoice(String choice) {
         //Keep the radio button choice to pass to the fragment
         mRadioButtonChoice = choice;
         Toast.makeText(this, "Choice is " + mRadioButtonChoice, Toast.LENGTH_SHORT).show();

@@ -22,8 +22,7 @@ public class SimpleFragment extends Fragment {
 
     private static final int YES = 0;
     private static final int NO = 1;
-    private static final int NONE = 2;
-    public int mRadioButtonChoice = NONE;
+    public String mRadioButtonChoice = "None";
     OnFragmentInteractionListener mListener;
     private static final String CHOICE = "choice";
 
@@ -43,10 +42,10 @@ public class SimpleFragment extends Fragment {
 
         if (getArguments().containsKey(CHOICE)){
             // A choice was made, get the choice
-            mRadioButtonChoice = getArguments().getInt(CHOICE);
+            mRadioButtonChoice = getArguments().getString(CHOICE);
             // Check the radio button choice
-            if (mRadioButtonChoice != NONE){
-                radioGroup.check(radioGroup.getChildAt(mRadioButtonChoice).getId());
+            if (!mRadioButtonChoice.equals("None")){
+                radioGroup.getCheckedRadioButtonId();
             }
         }
 
@@ -60,16 +59,16 @@ public class SimpleFragment extends Fragment {
                 switch (index){
                     case YES:
                         textView.setText(R.string.yes_message);
-                        mRadioButtonChoice = YES;
+                        mRadioButtonChoice = getString(R.string.yes);
                         mListener.onRadioButtonChoice(mRadioButtonChoice);
                         break;
                     case NO:
                         textView.setText(R.string.no_message);
-                        mRadioButtonChoice = NO;
+                        mRadioButtonChoice = getString(R.string.no);
                         mListener.onRadioButtonChoice(mRadioButtonChoice);
                         break;
                     default:
-                        mRadioButtonChoice = NONE;
+                        mRadioButtonChoice = "None";
                         mListener.onRadioButtonChoice(mRadioButtonChoice);
                         break;
                 }
@@ -88,16 +87,16 @@ public class SimpleFragment extends Fragment {
         return rootView;
     }
 
-    public static SimpleFragment newInstance(int choice){
+    public static SimpleFragment newInstance(String choice){
         SimpleFragment fragment = new SimpleFragment();
         Bundle args = new Bundle();
-        args.putInt(CHOICE, choice);
+        args.putString(CHOICE, choice);
         fragment.setArguments(args);
         return fragment;
     }
 
     interface OnFragmentInteractionListener {
-        void onRadioButtonChoice(int choice);
+        void onRadioButtonChoice(String choice);
     }
 
     @Override
