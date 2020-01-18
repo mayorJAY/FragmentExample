@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\JOSYCOM\\AndroidStudioProjects\\FragmentExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\JOSYCOM\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\014ab282d65de2d22bff131c5767fbdf\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\JOSYCOM\\.gradle\\caches\\transforms-2\\files-2.1\\61bb9d8e8f581241c484c599d3c72928\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\JOSYCOM\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\7b80cefbabac09e0ed857bbd361a1167\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\JOSYCOM\\.gradle\\caches\\transforms-2\\files-2.1\\b02d8022dd0fa1aa6b90fdcf82e4d9c4\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

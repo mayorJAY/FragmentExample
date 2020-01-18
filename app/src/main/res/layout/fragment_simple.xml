@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:background="@color/my_fragment_color"
     android:orientation="vertical"
-    tools:context=".SimpleFragment">
+    tools:context="com.example.android.fragmentexample.SimpleFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout

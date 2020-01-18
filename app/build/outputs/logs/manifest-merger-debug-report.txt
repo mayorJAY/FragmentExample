@@ -4,16 +4,16 @@ ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\A
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\be3d0b8fce6186616f0baae05b848cd0\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7d994e1fdfbe8d9043bcc6422d5063d5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:1-21:12
@@ -33,26 +33,26 @@ INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\mai
 		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\be3d0b8fce6186616f0baae05b848cd0\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\be3d0b8fce6186616f0baae05b848cd0\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7d994e1fdfbe8d9043bcc6422d5063d5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7d994e1fdfbe8d9043bcc6422d5063d5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
 		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -83,30 +83,30 @@ uses-sdk
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\be3d0b8fce6186616f0baae05b848cd0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\be3d0b8fce6186616f0baae05b848cd0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7d994e1fdfbe8d9043bcc6422d5063d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7d994e1fdfbe8d9043bcc6422d5063d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
@@ -116,24 +116,24 @@ INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\mai
 		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\FragmentExample\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\f14e4b215079a80bac4ce51924b073b9\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\3defa601f1a7a0ce7ca87cb3a3032596\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\81f56bdafd0316b683375bd7b273f0a3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\3d7dacd50e2e0bd57e29f5cbe2663d39\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\5236d2a3c5eab4fd540f52bacfa95d41\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\ce5ce961249234da7eb606563d1f46e7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5aaee7347e51b691a8d40903f55404cb\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\014ab282d65de2d22bff131c5767fbdf\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cf8b4edf66a426832a4e1497723698a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9ef884823dbf9163196c870c50d436a1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\99018f2fae2c6a6cec2d1b3885e9492d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a470e11258b24868e2614266d8ff9ab0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\1373d522bcf7a9f962330610dc6cd369\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\902317a73545ee5392acba34b2db8363\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\85dc859d233302320aba698e4efffd1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\61bb9d8e8f581241c484c599d3c72928\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\7b80cefbabac09e0ed857bbd361a1167\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\b02d8022dd0fa1aa6b90fdcf82e4d9c4\AndroidManifest.xml:27:13-51
